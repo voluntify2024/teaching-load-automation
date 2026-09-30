@@ -1,0 +1,13 @@
+# data
+input_files/
+output_files/
+
+# templates
+templates/
+
+# system files and IDE files
+.idea/
+*.xlsx
+*.xls
+Thumbs.db
+.DS_Store
